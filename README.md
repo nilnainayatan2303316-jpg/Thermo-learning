@@ -1,2 +1,0 @@
-# Thermo-learning
-web
